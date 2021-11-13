@@ -4601,6 +4601,7 @@ react-native-redash@^16.2.2:
     normalize-svg-path "^1.0.1"
     parse-svg-path "^0.1.2"
 
+<<<<<<< HEAD
 react-native-shadow-2@^5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/react-native-shadow-2/-/react-native-shadow-2-5.1.2.tgz#e25da837b58efc7140c2cf6db8c027e47502fdc6"
@@ -4616,6 +4617,8 @@ react-native-svg@^12.1.1:
     css-select "^2.1.0"
     css-tree "^1.0.0-alpha.39"
 
+=======
+>>>>>>> 65d8a00893a88c2ae8703c7a66c9205515662a3a
 react-native-web@0.17.1:
   version "0.17.1"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.17.1.tgz#90d473c89dd99b88bc9830b2a9fcdd2fc5f04902"
